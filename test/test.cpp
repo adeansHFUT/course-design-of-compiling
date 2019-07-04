@@ -1,6 +1,6 @@
 ﻿// test.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //对象名、用户名、密码都是char[str_size]
-#include "..\yjj\yjj.h"
+#include "..\yjj_\yjj.h"
 #include <iostream>
 using namespace std;
 
